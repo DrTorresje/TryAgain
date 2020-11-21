@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: This took about 6 days of work
+title: This site took about 6 days of work
 email: dr.torres@playahealth.org
 description: >- # this means to ignore newlines until "baseurl:"
  First steps to bekomming an awsome data scientist. Also I forgot to put a space before 
